@@ -1,0 +1,15 @@
+a) Total trading volume, in USD:
+Total trading value of AAPL is 21,493,604.62 USD
+Total trading value of BAC is 4,807,807.1 USD
+Total trading value of MSFT is 35,993,380.03 USD
+Total trading value of all symbols is 62,294,791.75 USD
+
+b) PNL generated from this trading:
+PnL of AAPL is 50,685.06 USD
+PnL of BAC is 64,958.43 USD
+PnL of MSFT is -38,158.47 USD
+
+c) VWAP of the fills for each instrument:
+VWAP of AAPL is 151.48 USD
+VWAP of BAC is 32.45 USD
+VWAP of MSFT is 239.9 USD

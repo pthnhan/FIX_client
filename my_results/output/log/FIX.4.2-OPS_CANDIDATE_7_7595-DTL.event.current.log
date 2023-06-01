@@ -1,0 +1,8 @@
+20230601-19:54:48.621263000 : Created session
+20230601-19:54:48.621427000 : Connecting to fix.dytechlab.com on port 5100 (Source :0)
+20230601-19:54:49.012484000 : Initiated logon request
+20230601-19:54:49.078986000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20230601-19:54:49.079118000 : Received logon response
+20230601-19:59:14.568787000 : Initiated logout request
+20230601-19:59:14.635905000 : Received logout response
+20230601-19:59:14.636278000 : Disconnecting
